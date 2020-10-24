@@ -1,6 +1,4 @@
 {
-  "correlationId": "23921650-c073-11ea-860f-06bc8182190e",
-  "totalCount": 36,
   "data": [
     {
       "company": {
@@ -26,10 +24,4 @@
       "isProcessed": true
     }
   ],
-  "paging": {
-    "size": 10,
-    "prev": 0,
-    "next": 2,
-    "last": 3
-  }
 }
