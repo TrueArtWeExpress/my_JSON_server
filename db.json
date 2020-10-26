@@ -2,12 +2,12 @@
   "data": [
     {
       "company": {
-        "id": "US-X-US22384484",
-        "safeNumber": "US22384484",
-        "name": "GOOGLE LLC",
-        "countryCode": "US",
-        "portfolioId": 589960,
-        "portfolioName": "Default"
+        "id": "BE-X-818451653",
+        "safeNumber": "BE5555666",
+        "name": "SAARTJE LENAERTS BVBA",
+        "countryCode": "BE",
+        "portfolioId": 1307409,
+        "portfolioName": "8"
       },
       "eventId": 426992366,
       "eventDate": "2019-12-06T08:23:37",
@@ -21,7 +21,53 @@
       "summary": "Address Change reported",
       "ruleText": "Address Change reported",
       "localEventCode": "LI2013",
-      "isProcessed": true
+      "isProcessed": false
+    },
+    {
+      "company": {
+        "id": "BE-X-421539630",
+        "safeNumber": "BE5555667",
+        "name": "JEUGDHUIS BUNKER VZW",
+        "countryCode": "BE",
+        "portfolioId": 1307409,
+        "portfolioName": "8"
+      },
+      "eventId": 426992367,
+      "eventDate": "2019-12-06T08:23:37",
+      "newValue": "1600 AMPHITHEATRE PARKWAY, MOUNTAIN VIEW, CA, 94043-1351",
+      "oldValue": "1604 AMPHITHEATRE PARKWAY, MOUNTAIN VIEW, CA, 94043-1351",
+      "notificationEventId": 51861887,
+      "notificationId": null,
+      "processedDate": null,
+      "ruleCode": 105,
+      "ruleName": "Address",
+      "summary": "Address Change reported",
+      "ruleText": "Address Change reported",
+      "localEventCode": "LI2013",
+      "isProcessed": false
+    },
+    {
+      "company": {
+        "id": "US001-X-US22384484",
+        "safeNumber": "BE5555668",
+        "name": "GOOGLE LLC",
+        "countryCode": "US",
+        "portfolioId": 1307409,
+        "portfolioName": "8"
+      },
+      "eventId": 426992368,
+      "eventDate": "2019-12-06T08:23:37",
+      "newValue": "1600 AMPHITHEATRE PARKWAY, MOUNTAIN VIEW, CA, 94043-1351",
+      "oldValue": "1604 AMPHITHEATRE PARKWAY, MOUNTAIN VIEW, CA, 94043-1351",
+      "notificationEventId": 51861887,
+      "notificationId": null,
+      "processedDate": null,
+      "ruleCode": 105,
+      "ruleName": "Address",
+      "summary": "Address Change reported",
+      "ruleText": "Address Change reported",
+      "localEventCode": "LI2013",
+      "isProcessed": false
     }
   ]
 }
